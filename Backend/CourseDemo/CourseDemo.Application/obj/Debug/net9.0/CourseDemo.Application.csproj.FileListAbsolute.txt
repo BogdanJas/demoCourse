@@ -1,0 +1,15 @@
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\obj\Debug\net9.0\CourseDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\obj\Debug\net9.0\CourseDemo.Application.AssemblyInfoInputs.cache
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\obj\Debug\net9.0\CourseDemo.Application.AssemblyInfo.cs
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\obj\Debug\net9.0\CourseDemo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\bin\Debug\net9.0\CourseDemo.Application.deps.json
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\bin\Debug\net9.0\CourseDemo.Application.dll
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\bin\Debug\net9.0\CourseDemo.Application.pdb
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\bin\Debug\net9.0\CourseDemo.Domain.dll
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\bin\Debug\net9.0\CourseDemo.Domain.pdb
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\obj\Debug\net9.0\CourseDemo.Application.csproj.AssemblyReference.cache
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\obj\Debug\net9.0\CourseDe.A4B0F3E4.Up2Date
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\obj\Debug\net9.0\CourseDemo.Application.dll
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\obj\Debug\net9.0\refint\CourseDemo.Application.dll
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\obj\Debug\net9.0\CourseDemo.Application.pdb
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo.Application\obj\Debug\net9.0\ref\CourseDemo.Application.dll

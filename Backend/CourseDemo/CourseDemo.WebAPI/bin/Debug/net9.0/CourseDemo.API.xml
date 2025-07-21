@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CourseDemo.API</name>
+    </assembly>
+    <members>
+        <member name="M:CourseDemo.API.Controllers.CoursesController.GetAllCourses">
+            <summary>
+            Get all courses
+            </summary>
+            <returns>List of courses</returns>
+        </member>
+        <member name="M:CourseDemo.API.Controllers.CoursesController.GetCoursesByStatus(System.Int32)">
+            <summary>
+            Get courses by status
+            </summary>
+            <param name="status">Course status (1=Draft, 2=Published, 3=Archived)</param>
+            <returns>List of courses with specified status</returns>
+        </member>
+        <member name="M:CourseDemo.API.Controllers.CoursesController.GetCourseById(System.Guid)">
+            <summary>
+            Get course by ID
+            </summary>
+            <param name="id">Course ID</param>
+            <returns>Course details</returns>
+        </member>
+        <member name="M:CourseDemo.API.Controllers.CoursesController.CreateCourse(CourseDemo.Application.DTOs.CreateCourseDto)">
+            <summary>
+            Create a new course
+            </summary>
+            <param name="createCourseDto">Course creation data</param>
+            <returns>Created course</returns>
+        </member>
+        <member name="M:CourseDemo.API.Controllers.CoursesController.UpdateCourse(System.Guid,CourseDemo.Application.DTOs.UpdateCourseDto)">
+            <summary>
+            Update an existing course
+            </summary>
+            <param name="id">Course ID</param>
+            <param name="updateCourseDto">Course update data</param>
+            <returns>Updated course</returns>
+        </member>
+        <member name="M:CourseDemo.API.Controllers.CoursesController.UpdateCourseStatus(System.Guid,CourseDemo.Application.DTOs.UpdateCourseStatusDto)">
+            <summary>
+            Update course status
+            </summary>
+            <param name="id">Course ID</param>
+            <param name="updateStatusDto">Status update data</param>
+            <returns>Updated course</returns>
+        </member>
+        <member name="M:CourseDemo.API.Controllers.CoursesController.DeleteCourse(System.Guid)">
+            <summary>
+            Delete a course
+            </summary>
+            <param name="id">Course ID</param>
+            <returns>No content if successful</returns>
+        </member>
+    </members>
+</doc>

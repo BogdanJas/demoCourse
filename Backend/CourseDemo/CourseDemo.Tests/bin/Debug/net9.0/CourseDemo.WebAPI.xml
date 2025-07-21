@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CourseDemo.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:CourseDemo.WebAPI.Controllers.CoursesController.GetAllCourses">
+            <summary>
+            Get all courses
+            </summary>
+            <returns>List of courses</returns>
+        </member>
+        <member name="M:CourseDemo.WebAPI.Controllers.CoursesController.GetCourseById(System.Guid)">
+            <summary>
+            Get course by ID
+            </summary>
+            <param name="id">Course ID</param>
+            <returns>Course details</returns>
+        </member>
+        <member name="M:CourseDemo.WebAPI.Controllers.CoursesController.CreateCourse(CourseDemo.Application.DTOs.CreateCourseDto)">
+            <summary>
+            Create a new course
+            </summary>
+            <param name="createCourseDto">Course creation data</param>
+            <returns>Created course</returns>
+        </member>
+        <member name="M:CourseDemo.WebAPI.Controllers.CoursesController.UpdateCourse(System.Guid,CourseDemo.Application.DTOs.UpdateCourseDto)">
+            <summary>
+            Update an existing course
+            </summary>
+            <param name="id">Course ID</param>
+            <param name="updateCourseDto">Course update data</param>
+            <returns>Updated course</returns>
+        </member>
+        <member name="M:CourseDemo.WebAPI.Controllers.CoursesController.UpdateCourseStatus(System.Guid,CourseDemo.Application.DTOs.UpdateCourseStatusDto)">
+            <summary>
+            Update course status
+            </summary>
+            <param name="id">Course ID</param>
+            <param name="updateStatusDto">Status update data</param>
+            <returns>Updated course</returns>
+        </member>
+    </members>
+</doc>

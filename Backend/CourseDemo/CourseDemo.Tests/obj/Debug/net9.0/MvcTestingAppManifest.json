@@ -1,0 +1,6 @@
+{
+  "CourseDemo.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Bondi\\Desktop\\CourseDemo\\Backend\\CourseDemo\\CourseDemo.Application",
+  "CourseDemo.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Bondi\\Desktop\\CourseDemo\\Backend\\CourseDemo\\CourseDemo",
+  "CourseDemo.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Bondi\\Desktop\\CourseDemo\\Backend\\CourseDemo\\CourseDemo.Infrastructure",
+  "CourseDemo.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Bondi\\Desktop\\CourseDemo\\Backend\\CourseDemo\\CourseDemo.WebAPI"
+}

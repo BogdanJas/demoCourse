@@ -1,0 +1,11 @@
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo\bin\Debug\net9.0\CourseDemo.Domain.deps.json
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo\bin\Debug\net9.0\CourseDemo.Domain.dll
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo\bin\Debug\net9.0\CourseDemo.Domain.pdb
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo\obj\Debug\net9.0\CourseDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo\obj\Debug\net9.0\CourseDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo\obj\Debug\net9.0\CourseDemo.Domain.AssemblyInfo.cs
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo\obj\Debug\net9.0\CourseDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo\obj\Debug\net9.0\CourseDemo.Domain.dll
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo\obj\Debug\net9.0\refint\CourseDemo.Domain.dll
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo\obj\Debug\net9.0\CourseDemo.Domain.pdb
+C:\Users\Bondi\Desktop\CourseDemo\Backend\CourseDemo\CourseDemo\obj\Debug\net9.0\ref\CourseDemo.Domain.dll
