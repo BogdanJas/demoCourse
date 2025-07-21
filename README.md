@@ -24,7 +24,7 @@ The application is deployed and available at: [http://coursedemo-alb-1005453574.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/BogdanJas/courseDemo.git
+   git clone https://github.com/BogdanJas/demoCourse.git
    cd CourseDemo
    ```
 
