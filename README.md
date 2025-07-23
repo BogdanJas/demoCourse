@@ -1,9 +1,4 @@
 # Course Management System
-
-## Live Demo
-
-The application is deployed and available at: [http://coursedemo-alb-1005453574.us-east-1.elb.amazonaws.com/](http://coursedemo-alb-1005453574.us-east-1.elb.amazonaws.com/)
-
 ## Architecture
 
 - **Backend**: .NET 9.0
